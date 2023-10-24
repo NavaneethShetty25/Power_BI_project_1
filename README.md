@@ -3,13 +3,11 @@
 Objective: Enhanced employee performance and retention through comprehensive HR Analytics Dashboard creation.
 
 Achievements:
-
 * Analyzed workforce data to identify performance trends.
 * Designed interactive dashboard for actionable insights.
 * Improved HR strategies, boosting employee retention.
 
 Skills:
-
 * Power BI Dashboard Creation
 * Workforce Data Analysis
 * HR Strategy Enhancement
